@@ -1,20 +1,20 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "OppFi Salesforce Team Documentation"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Test Title Addition"
+description = ""
 
 ## Open Graph
-images = ["doks.png"]
+images = [""]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = ""
+twitterCreator = ""
 
 ## JSON-LD
 # schemaType = "Person"
@@ -25,15 +25,15 @@ schemaAuthorTwitter = "https://twitter.com/henkverlinde"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/h-enk"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "opp.jpeg"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/opploans/Salesforce"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -55,7 +55,7 @@ copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = ""
 
 # Edit Page
 docsRepo = "https://github.com/h-enk/doks"
